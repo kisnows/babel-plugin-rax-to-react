@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-rax2react",
+  "version": "0.0.1",
+  "description": "Transform rax component code to react version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kisnows/babel-plugin-rax2react.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "rax",
+    "react"
+  ],
+  "author": "yq12315@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kisnows/babel-plugin-rax2react/issues"
+  },
+  "homepage": "https://github.com/kisnows/babel-plugin-rax2react#readme"
+}

@@ -1,0 +1,1 @@
+#babel-plugin-rax2react
